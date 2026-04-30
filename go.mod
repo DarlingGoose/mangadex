@@ -1,4 +1,4 @@
-module github.com/Seann-Moser/mangadex
+module github.com/DarlingGoose/mangadex
 
 go 1.24.4
 

@@ -4,7 +4,7 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/Seann-Moser/mangadex"
+	"github.com/DarlingGoose/mangadex"
 )
 
 func main() {

@@ -5,7 +5,7 @@ A lightweight Go client and HTTP‐handler wrappers for the MangaDex API.
 ## Installation
 
 ```bash
-go get github.com/Seann-Moser/mangadex
+go get github.com/DarlingGoose/mangadex
 ```
 
 ```go
